@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Photography Website</title>
+    <title>Sai printo photography</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +45,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Photography Name. All rights reserved.</p>
+        <p>&copy; 2023 Sai printo photography. All rights reserved.</p>
     </footer>
 </body>
 </html>
