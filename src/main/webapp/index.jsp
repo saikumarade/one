@@ -9,11 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background-color: #141415;
             color: #333;
         }
         header {
-            background-color: #ff8c00;
+            background-color: #041F39;
             color: #fff;
             padding: 20px;
             text-align: center;
@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1>Saiprinto Photography</h1>
+        <h1>SAIPRINTO PHOTOGRPHY</h1>
         <p class="animated-text">Capturing Moments in Vibrant Colors</p>
     </header>
 
