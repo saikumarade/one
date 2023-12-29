@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saiprinto Photography</title>
+    <title>NEERU Photography</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1>SAIPRINTO PHOTOGRPHY</h1>
+        <h1>NEERU PHOTOGRPHY</h1>
         <p class="animated-text">Capturing Moments in Vibrant Colors</p>
     </header>
 
