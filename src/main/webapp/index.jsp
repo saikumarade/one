@@ -34,7 +34,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Photography Name</h1>
+        <h1>Saiprinto photography</h1>
         <p>Capturing Moments</p>
     </header>
 
